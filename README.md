@@ -11,7 +11,7 @@ Ce projet consiste à créer un jeu du Tic Tac Toe en mode console en utilisant 
 
 ## Comment jouer
 
-1. Clonez le repository : `git clone https://github.com/votre-utilisateur/tic-tac-toe-console.git`
+1. Clonez le repository : `git clone https://github.com/bahAli21/Tic-Tac-Toe.git`
 2. Ouvrez le projet dans Visual Studio ou tout autre éditeur de code.
 3. Compilez et exécutez l'application.
 4. Suivez les instructions à l'écran pour placer votre pion et jouer contre l'ordinateur.
